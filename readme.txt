@@ -1,8 +1,4 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Вы имеете возможность скачать архив с полностью настроенным для работы лендингом.
+Для начала работы, содержимое архива необходимо загрузить на собственный хостинг с поддержкой PHP. 
+Для передачи SUBID, используйте ссылку в формате http://ваш_домен/?subid=XXX&subid2=XXX&subid3=XXX&subid4=XXX&subid5=XXX. 
+При размещении лендинга на собственном хостинге, в статистике не учитываются клики, доступны только лиды.
